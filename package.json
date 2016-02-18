@@ -1,0 +1,27 @@
+{
+  "name": "jasmine-node-poc",
+  "version": "0.0.1",
+  "description": "Running Jasmine tests on node. No frontend required this time. yay!",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshacker/jasmine-node-poc.git"
+  },
+  "keywords": [
+    "jasmine",
+    "node",
+    "testing"
+  ],
+  "author": "EcmaScript Hacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eshacker/jasmine-node-poc/issues"
+  },
+  "homepage": "https://github.com/eshacker/jasmine-node-poc#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
