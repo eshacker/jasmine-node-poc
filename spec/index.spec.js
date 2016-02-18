@@ -11,10 +11,10 @@ describe('Testing basic mathematics on jasmine node.', function(){
     y = 5;
   });
   it('sum of 10 and 5 is 15', function(){
-    expect(app.sum(x, y)).toBe(5);
+    expect(app.sum(x, y)).toBe(15);
   });
   it('difference of 10 and 5 is 5', function(){
-    expect(app.diff(x, y)).toBe(15);
+    expect(app.diff(x, y)).toBe(5);
   });
 });
 
